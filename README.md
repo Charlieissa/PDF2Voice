@@ -2,6 +2,8 @@
 
 PDF Utility is a Python GUI application that provides various features for working with PDF files. It allows users to browse PDF files, export them to DOC format, save PDF content as audio, and adjust the playback speed of the generated audio.
 
+![Screenshot from 2023-09-22 14-54-14](https://github.com/Charlieissa/PDF2Voice/assets/59963704/ec188fb8-9dd7-45a9-b8a5-0643c6f9acec)
+
 ## Introduction
 
 PDF Utility simplifies common PDF-related tasks and enhances accessibility through text-to-speech functionality.
