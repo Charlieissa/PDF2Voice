@@ -1,0 +1,11 @@
+docx==0.2.4
+gTTS==2.3.2
+lingua==4.15.0
+pdfminer==20191125
+pdfminer.six==20221105
+PyQt5==5.15.9
+PyQt5_sip==12.12.2
+PyQt5_sip==12.9.1
+python_bidi==0.4.2
+python_docx==0.8.11
+pyttsx3==2.90
