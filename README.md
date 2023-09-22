@@ -59,9 +59,11 @@ PDF Utility allows you to convert PDF text to audio and adjust playback speed. H
 **Supported Language**
 
 Playing without saving:
+
   -English
 
 Saving:
+
   -English
   -Arabic
   -Hebrew
