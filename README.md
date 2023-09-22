@@ -23,15 +23,18 @@ PDF Utility relies on the following dependencies:
 - pyttsx3==2.90
 
 **You can install these dependencies using pip:**
+
 pip install -r requirements.txt
 
 
 **Tested On**
+
 PDF Utility has been tested on the following platforms:
     Ubuntu 20.04
 But should works on all OS.
 
 **Usage**
+
 PDF to DOC Export
 
 To export a PDF file to DOC format, follow these steps:
@@ -54,6 +57,7 @@ PDF Utility allows you to convert PDF text to audio and adjust playback speed. H
 
 
 **Supported Language**
+
 Playing without saving:
   -English
 
