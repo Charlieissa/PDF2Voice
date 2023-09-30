@@ -2,7 +2,7 @@
 
 PDF Utility is a Python GUI application that provides various features for working with PDF files. It allows users to browse PDF files, export them to DOC format, save PDF content as audio, and adjust the playback speed of the generated audio.
 
-![Screenshot from 2023-09-22 14-54-14](https://github.com/Charlieissa/PDF2Voice/assets/59963704/ec188fb8-9dd7-45a9-b8a5-0643c6f9acec)
+![Screenshot from 2023-09-30 14-51-52](https://github.com/Charlieissa/PDF2Voice/assets/59963704/781557f4-917b-4fa6-84f3-eb39f953058d)
 
 ## Introduction
 
@@ -12,17 +12,19 @@ PDF Utility simplifies common PDF-related tasks and enhances accessibility throu
 
 PDF Utility relies on the following dependencies:
 
-- docx==0.2.4
-- gTTS==2.3.2
-- lingua==4.15.0
-- pdfminer==20191125
-- pdfminer.six==20221105
-- PyQt5==5.15.9
-- PyQt5_sip==12.12.2
-- PyQt5_sip==12.9.1
-- python_bidi==0.4.2
-- python_docx==0.8.11
-- pyttsx3==2.90
+-deep_translator==1.11.4
+-docx==0.2.4
+-gTTS==2.3.2
+-lingua==4.15.0
+-pdfminer==20191125
+-pdfminer.six==20221105
+-PyQt5==5.15.9
+-PyQt5_sip==12.12.2
+-PyQt5_sip==12.9.1
+-python_bidi==0.4.2
+-python_docx==0.8.11
+-pyttsx3==2.90
+
 
 **You can install these dependencies using pip:**
 
@@ -56,6 +58,7 @@ PDF Utility allows you to convert PDF text to audio (support only English) and a
     Click "Save audio" to save the audio file.
 
 **Translate text**
+suppoerted language translate to -> Arabic,Hebrew,English,German,French,Italy
 To translate a PDF file to different language, follow these steps :
 
     Launch the PDF Utility application.
