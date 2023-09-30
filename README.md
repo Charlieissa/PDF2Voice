@@ -37,8 +37,7 @@ But should works on all OS.
 
 **Usage**
 
-PDF to DOC Export
-
+**PDF to DOC Export**
 To export a PDF file to DOC format, follow these steps:
 
     Launch the PDF Utility application.
@@ -47,9 +46,8 @@ To export a PDF file to DOC format, follow these steps:
     Choose a destination folder to save the DOC file.
     Click "Save."
 
-Text-to-Speech (PDF to Audio)
-
-PDF Utility allows you to convert PDF text to audio and adjust playback speed. Here's how:
+**Text-to-Speech (PDF to Audio)**
+PDF Utility allows you to convert PDF text to audio (support only English) and adjust playback speed. Here's how:
 
     Launch the PDF Utility application.
     Click the "Browse PDF" button to select the PDF file.
@@ -57,7 +55,15 @@ PDF Utility allows you to convert PDF text to audio and adjust playback speed. H
     Adjust the playback speed using the provided options.
     Click "Save audio" to save the audio file.
 
+**Translate text**
+To translate a PDF file to different language, follow these steps :
 
+    Launch the PDF Utility application.
+    Click the "Browse PDF" button to select the PDF file you want to convert.
+    Click the language you want to translate to.
+    Click the "Translate" button.
+
+    
 **Supported Language**
 
 Playing without saving:
